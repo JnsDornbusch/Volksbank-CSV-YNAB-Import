@@ -1,4 +1,4 @@
-#Volksbank-CSV-YNAB-Import
+# Volksbank-CSV-YNAB-Import
 Hier entsteht mein kleines Skript,
 mit dem ich die Daten der Volksbank in YNAB importieren kann.
 
